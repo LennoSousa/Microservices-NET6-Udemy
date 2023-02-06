@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "N6RT3iEhYFWRn8cZdEj5mAB/jAYImU7bqBNaPWXRsUA=",
+  "Hash": "n7ZOpvkBQEUZIrfBj/kTu1FCi19qEWCkElyCtOEzsnM=",
   "Source": "GeekShopping.Web",
   "BasePath": "_content/GeekShopping.Web",
   "Mode": "Default",
@@ -83,6 +83,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\lenno\\Documents\\Git\\Microservices-NET6-Udemy\\GeekShopping\\GeekShopping.Web\\wwwroot\\images\\favicon.png",
+      "SourceId": "GeekShopping.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lenno\\Documents\\Git\\Microservices-NET6-Udemy\\GeekShopping\\GeekShopping.Web\\wwwroot\\",
+      "BasePath": "_content/GeekShopping.Web",
+      "RelativePath": "images/favicon.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\favicon.png"
+    },
+    {
+      "Identity": "C:\\Users\\lenno\\Documents\\Git\\Microservices-NET6-Udemy\\GeekShopping\\GeekShopping.Web\\wwwroot\\images\\geek_shopping.png",
+      "SourceId": "GeekShopping.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lenno\\Documents\\Git\\Microservices-NET6-Udemy\\GeekShopping\\GeekShopping.Web\\wwwroot\\",
+      "BasePath": "_content/GeekShopping.Web",
+      "RelativePath": "images/geek_shopping.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\geek_shopping.png"
     },
     {
       "Identity": "C:\\Users\\lenno\\Documents\\Git\\Microservices-NET6-Udemy\\GeekShopping\\GeekShopping.Web\\wwwroot\\js\\site.js",
