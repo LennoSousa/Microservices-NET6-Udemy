@@ -1,11 +1,23 @@
 {
   "Version": 1,
-  "Hash": "n7ZOpvkBQEUZIrfBj/kTu1FCi19qEWCkElyCtOEzsnM=",
+  "Hash": "/4NK7KNRRfh/ilRIecGkQjZoVsryCLw7wX8rMuBbJ1M=",
   "Source": "GeekShopping.Web",
   "BasePath": "_content/GeekShopping.Web",
   "Mode": "Default",
   "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\lenno\\Documents\\Git\\Microservices-NET6-Udemy\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
+      "Version": 2,
+      "Source": "GeekShopping.ProductAPI",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
   "DiscoveryPatterns": [
     {
       "Name": "GeekShopping.Web\\wwwroot",
